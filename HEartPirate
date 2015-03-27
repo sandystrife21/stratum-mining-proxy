@@ -1,0 +1,2 @@
+/stratum-mining-proxy-master/mining_proxy.py &
+./DiabloMiner-OSX.sh -u WORKERNAME -p WORKERPASSWORD -o localhost -r 8332 -w 64 -na
